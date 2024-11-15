@@ -6,6 +6,6 @@
 </br>
 
 <p align="center">
-<video src="https://github.com/its-t/its-t/blob/b0030e717a21a0d3fd5316bff2eedd16626b21bd/media/12622552_1280_720_24fps.mp4">
+  <img src="media/pexels-saturnus99-29398093.jpg">
 </p>
 
