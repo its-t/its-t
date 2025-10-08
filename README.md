@@ -6,6 +6,6 @@
 </br>
 
 <p align="center">
-  <img src="media/pexels-saturnus99-29398093.jpg">
+  <img src="media/pexels-katie-doane-1599464-12408409.jpg">
 </p>
 
